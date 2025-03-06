@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 🔹 **[Atliq Sales Insights](https://github.com/Aniru1105/MY_-projects/tree/PROJECT-1)**  
 📌 Developed a **sales analytics system** using **MySQL, Power BI, and DAX**. Automated ETL processes and created interactive dashboards for business insights.
 
-🔹 **[Employee Data Analysis](https://github.com/Aniru1105/Telecom_Analysis)**  
+🔹 **[Telecom Data Analysis](https://github.com/Aniru1105/Telecom_Analysis)**  
 📌 Performed **ETL operations**, analyzed **employee performance** using **Python and Pandas**, and derived actionable insights from large datasets.
 
 ---
