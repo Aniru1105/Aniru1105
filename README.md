@@ -100,6 +100,9 @@ Here are some ideas to get you started:
 🔹 **[Telecom Data Analysis](https://github.com/Aniru1105/Telecom_Analysis)**  
 📌 Performed **ETL operations**, analyzed **employee performance** using **Python and Pandas**, and derived actionable insights from large datasets.
 
+🔹 **[GoodCabs Travel Analysis](https://github.com/Aniru1105/GoodCabs_Analysis.git)**  
+📌 Performed **EDA operations**, analyzed **cab performance , passengers and drivers data** using **Sql and Power Bi**, and derived actionable insights from large datasets.
+
 ---
 
 ## 📜 Certifications
@@ -109,6 +112,8 @@ Here are some ideas to get you started:
 - Exploratory Data Analysis using Python
 - Statistical Programming with R
 - Cloud Computing using Oracle Virtual Box
+
+
 
 ---
 
