@@ -88,8 +88,8 @@ Here are some ideas to get you started:
 
 
 ### 🔤 Language Proficiency
-- **Python**: Advanced
-- **SQL**: Intermediate to Advanced
+- **Python**
+- **SQL**
 
 ---
 
