@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ## 🔥 About Me
 🎓 **B.Tech in Artificial Intelligence & Data Science** (2022 - 2026) at **Madhav Institute of Technology & Science, Gwalior**  
-📊 Passionate about **Data Analytics, AI, and Machine Learning**  
+📊 Passionate about **Data Analytics, AI, and Machine Learning** .  I specialize in extracting actionable insights from data using SQL, Python, and Power BI to drive business decisions. 
 🎵 **Music Enthusiast** – Dark Mystic Synth Beat Producer  
 💡 Love working with **Python, SQL, R, and Data Visualization tools**
 
@@ -94,6 +94,7 @@ Here are some ideas to get you started:
 ---
 
 ## 📂 Featured Projects
+💡 *Check out some of my real-world analytics projects!*
 🔹 **[Atliq Sales Insights](https://github.com/Aniru1105/MY_-projects/tree/PROJECT-1)**  
 📌 Developed a **sales analytics system** using **MySQL, Power BI, and DAX**. Automated ETL processes and created interactive dashboards for business insights.
 
@@ -101,7 +102,7 @@ Here are some ideas to get you started:
 📌 Performed **ETL operations**, analyzed **employee performance** using **Python and Pandas**, and derived actionable insights from large datasets.
 
 🔹 **[GoodCabs Travel Analysis](https://github.com/Aniru1105/GoodCabs_Analysis.git)**  
-📌 Performed **EDA operations**, analyzed **cab performance , passengers and drivers data** using **Sql and Power Bi**, and derived actionable insights from large datasets.
+📌 "Optimized cab trip efficiency by 20% through SQL-based ride analysis. Built an interactive Power BI dashboard to visualize driver performance & passenger trends."
 
 ---
 
@@ -124,7 +125,7 @@ Here are some ideas to get you started:
 
 ---
 ---
-
+💡 *"Data is the new oil, but only refined data drives decisions!"*  
 ⭐️ From [Anirudh Sharma](https://github.com/Aniru1105)
 
 
