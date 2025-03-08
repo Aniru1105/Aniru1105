@@ -122,10 +122,13 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anirudh1105/)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/aniru_the_mint)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Aniru1105)  
+![Profile Views](https://komarev.com/ghpvc/?username=Aniru1105&color=blue)
 
 ---
 ---
+
 💡 *"Data is the new oil, but only refined data drives decisions!"*  
 ⭐️ From [Anirudh Sharma](https://github.com/Aniru1105)
+
 
 
