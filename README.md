@@ -98,6 +98,7 @@ Here are some ideas to get you started:
 
 ## 📂 Featured Projects
 💡 *Check out some of my real-world analytics projects!*
+
 🔹 **[Atliq Sales Insights](https://github.com/Aniru1105/MY_-projects/tree/PROJECT-1)**  
 📌 Developed a **sales analytics system** using **MySQL, Power BI, and DAX**. Automated ETL processes and created interactive dashboards for business insights.
 
