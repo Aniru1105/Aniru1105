@@ -108,6 +108,9 @@ Here are some ideas to get you started:
 🔹 **[GoodCabs Travel Analysis](https://github.com/Aniru1105/GoodCabs_Analysis.git)**  
 📌 "Optimized cab trip efficiency by 20% through SQL-based ride analysis. Built an interactive Power BI dashboard to visualize driver performance & passenger trends."
 
+🔹 **[Telangana Tourism Analysis](https://github.com/Aniru1105/Tourism_Analysis.git)**  
+📌 "Optimized tourism and visitor rates by 20% through SQL-based ride analysis. Built an interactive Power BI dashboard to visualize travel and tourism trends."
+
 ---
 
 ## 📜 Certifications
