@@ -73,6 +73,7 @@ Here are some ideas to get you started:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![R](https://img.shields.io/badge/R-9A4C95?style=for-the-badge&logo=r&logoColor=white)
 
 ---
 
