@@ -114,6 +114,9 @@ Here are some ideas to get you started:
 🔹 **[Telangana Tourism Analysis](https://github.com/Aniru1105/Tourism_Analysis.git)**  
 📌 "Optimized tourism and visitor rates by 20% through SQL-based ride analysis. Built an interactive Power BI dashboard to visualize travel and tourism trends."
 
+🔹 **[Deeplearning Projects Based on ANN,CNN,RNN and faceRecognition](https://github.com/Aniru1105/Deep-Learning-Projects-ANN-CNN-RNN-and-Face-Recognition.git)**  
+📌 "Developed and implemented multiple deep learning models (ANN, CNN, RNN, and Face Recognition) using TensorFlow/Keras and OpenCV, achieving high accuracy in classification, prediction, and real-time computer vision tasks."
+
 ---
 
 ## 📜 Certifications
