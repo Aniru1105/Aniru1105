@@ -54,14 +54,14 @@ Here are some ideas to get you started:
 # Hi there, I'm Anirudh Sharma! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F1F7F6&width=435&lines=Data+Analyst+%7C+AI+Enthusiast;Passionate+about+Data+and+AI;Exploring+Tech+%7C+Music+Producer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F1F7F6&width=435&lines=Data+Analyst+%7C+AI+Enthusiast;ML+Learning+Aspirant;Passionate+about+Data+and+AI;Exploring+Tech+%7C+Music+Producer" alt="Typing SVG" />
 </p>
 
 ## 🔥 About Me
 🎓 **B.Tech in Artificial Intelligence & Data Science** (2022 - 2026) at **Madhav Institute of Technology & Science, Gwalior**  
-📊 Passionate about **Data Analytics, AI, and Machine Learning** .  I specialize in extracting actionable insights from data using SQL, Python, and Power BI to drive business decisions. 
+📊 Passionate about **Data Analytics, AI, and Machine Learning** .  I specialize in extracting actionable insights from data using SQL, Python, and Power BI to drive business decisions as well as love working on Neural Network. 
 🎵 **Music Enthusiast** – Dark Mystic Synth Beat Producer  
-💡 Love working with **Python, SQL, R, and Data Visualization tools**
+💡 Love working with **Neural Networks , Python, SQL, R, and Data Visualization tools**
 
 ---
 
